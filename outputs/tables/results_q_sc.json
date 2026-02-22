@@ -1,0 +1,35 @@
+[
+  {
+    "method": "louvain_gamma_1.0",
+    "num_nodes": 30000,
+    "num_edges": 35760,
+    "num_communities": 11983,
+    "community_size_min": 1,
+    "community_size_mean": 2.50354669114579,
+    "community_size_max": 1679,
+    "modularity_Q": 0.7844558193699983,
+    "semantic_coherence_SC": 0.6790429558424901
+  },
+  {
+    "method": "spectral_k_50",
+    "num_nodes": 30000,
+    "num_edges": 35760,
+    "num_communities": 50,
+    "community_size_min": 33,
+    "community_size_mean": 600.0,
+    "community_size_max": 9284,
+    "modularity_Q": 0.49837312954183743,
+    "semantic_coherence_SC": 0.6738836494432799
+  },
+  {
+    "method": "label_prop",
+    "num_nodes": 30000,
+    "num_edges": 35760,
+    "num_communities": 14243,
+    "community_size_min": 1,
+    "community_size_mean": 2.1062978305132347,
+    "community_size_max": 2390,
+    "modularity_Q": 0.6483026614635727,
+    "semantic_coherence_SC": 0.6738100925169179
+  }
+]

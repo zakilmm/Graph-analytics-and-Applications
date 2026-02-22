@@ -1,0 +1,11 @@
+{
+  "dataset": "ogbn-arxiv",
+  "num_nodes": 169343,
+  "num_edges": 1157799,
+  "avg_degree": 13.674010735607613,
+  "density": 8.074789913670332e-05,
+  "avg_clustering_approx": 0.224964002509317,
+  "feature_dim": 128,
+  "keyword_count_mean_proxy": 127.9997519826624,
+  "keyword_count_median_proxy": 128.0
+}

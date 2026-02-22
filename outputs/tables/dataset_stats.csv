@@ -1,0 +1,2 @@
+dataset,num_nodes,num_edges,avg_degree,density,avg_clustering_approx,feature_dim,keyword_count_mean_proxy,keyword_count_median_proxy
+ogbn-arxiv,169343,1157799,13.674010735607613,8.074789913670332e-05,0.224964002509317,128,127.9997519826624,128.0
